@@ -1,0 +1,2 @@
+- [EFF](https://www.eff.org/) – [Secure Messaging Scorecard](https://www.eff.org/secure-messaging-scorecard)
+- Stiftung Warentest – [WhatsApp und Alternativen: Daten­schutz im Test](https://www.test.de/WhatsApp-und-Alternativen-Datenschutz-im-Test-4675013-0/) vom 26.02.2014
